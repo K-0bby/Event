@@ -5,3 +5,4 @@ const dropDownmenu = document.querySelector('.dropdown_menu')
 toggleBtn.onclick = function () {
     dropDownmenu.classList.toggle('open')
 }
+
